@@ -1,4 +1,4 @@
 <Solution>
-  <Project Path="../../../SandBox/Sandbox (Console app)/Containers/Containers/Containers.csproj" />
+  <Project Path="Containers/Containers/Containers.csproj" />
   <Project Path="Toolbox/Toolbox.csproj" />
 </Solution>

@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\..\..\SandBox\Sandbox (Console app)\Containers\Containers\Containers.csproj" />
+    <ProjectReference Include="..\Containers\Containers\Containers.csproj" />
   </ItemGroup>
 
 </Project>
